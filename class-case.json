@@ -1,0 +1,71 @@
+{
+  "version": 1,
+  "topic": "Academic-life balance during exam periods",
+  "perspective": "Students balancing coursework with other responsibilities",
+  "notes": [
+    {
+      "id": "case-subject",
+      "x": 80,
+      "y": 225,
+      "type": "note",
+      "kind": "observation",
+      "text": "UC Berkeley students experiencing academic-life imbalance."
+    },
+    {
+      "id": "case-object",
+      "x": 745,
+      "y": 215,
+      "type": "note",
+      "kind": "observation",
+      "text": "Succeeding in courses and progressing toward major or career goals."
+    },
+    {
+      "id": "case-tools",
+      "x": 650,
+      "y": 20,
+      "type": "note",
+      "kind": "question",
+      "text": "The initial map names “balance.” Which specific tools, routines, or resources mediate studying?"
+    },
+    {
+      "id": "case-rules",
+      "x": 55,
+      "y": 635,
+      "type": "note",
+      "kind": "observation",
+      "text": "Assignment guidelines, deadlines, and grade requirements."
+    },
+    {
+      "id": "case-community",
+      "x": 410,
+      "y": 635,
+      "type": "note",
+      "kind": "observation",
+      "text": "Students in similar majors and career-related communities."
+    },
+    {
+      "id": "case-labor",
+      "x": 775,
+      "y": 635,
+      "type": "note",
+      "kind": "question",
+      "text": "The initial map places responsibility with the student. Who can change the conditions?"
+    },
+    {
+      "id": "case-outcome",
+      "x": 985,
+      "y": 425,
+      "type": "note",
+      "kind": "observation",
+      "text": "Pressure to succeed, as described in the student’s initial framing."
+    },
+    {
+      "id": "case-tension",
+      "x": 525,
+      "y": 420,
+      "type": "tension",
+      "kind": "hypothesis",
+      "text": "Do expectations within major or career communities support succeeding in courses, or add competing demands? What would we need to learn to understand this relationship?"
+    }
+  ]
+}
